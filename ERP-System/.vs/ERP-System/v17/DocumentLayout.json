@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\Erp-System\\ERP-System\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD3AE6B-7FE3-47B7-8DCD-E50F35177C12}|ERP-System.csproj|c:\\users\\administrator\\source\\repos\\erp-system\\erp-system\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD3AE6B-7FE3-47B7-8DCD-E50F35177C12}|ERP-System.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD3AE6B-7FE3-47B7-8DCD-E50F35177C12}|ERP-System.csproj|c:\\users\\administrator\\source\\repos\\erp-system\\erp-system\\enum\\cargoenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD3AE6B-7FE3-47B7-8DCD-E50F35177C12}|ERP-System.csproj|solutionrelative:enum\\cargoenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD3AE6B-7FE3-47B7-8DCD-E50F35177C12}|ERP-System.csproj|c:\\users\\administrator\\source\\repos\\erp-system\\erp-system\\model\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD3AE6B-7FE3-47B7-8DCD-E50F35177C12}|ERP-System.csproj|solutionrelative:model\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD3AE6B-7FE3-47B7-8DCD-E50F35177C12}|ERP-System.csproj|c:\\users\\administrator\\source\\repos\\erp-system\\erp-system\\erp-system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8CD3AE6B-7FE3-47B7-8DCD-E50F35177C12}|ERP-System.csproj|solutionrelative:erp-system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +26,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Erp-System\\ERP-System\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Erp-System\\ERP-System\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T18:51:09.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ERP-System",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Erp-System\\ERP-System\\ERP-System.csproj",
+              "RelativeDocumentMoniker": "ERP-System.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Erp-System\\ERP-System\\ERP-System.csproj",
+              "RelativeToolTip": "ERP-System.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-16T18:50:58.499Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CargoEnum.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Erp-System\\ERP-System\\Enum\\CargoEnum.cs",
+              "RelativeDocumentMoniker": "Enum\\CargoEnum.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Erp-System\\ERP-System\\Enum\\CargoEnum.cs",
+              "RelativeToolTip": "Enum\\CargoEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T18:38:41.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioModel.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Erp-System\\ERP-System\\Model\\UsuarioModel.cs",
+              "RelativeDocumentMoniker": "Model\\UsuarioModel.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Erp-System\\ERP-System\\Model\\UsuarioModel.cs",
+              "RelativeToolTip": "Model\\UsuarioModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T18:32:07.707Z",
+              "EditorCaption": ""
             }
           ]
         }
