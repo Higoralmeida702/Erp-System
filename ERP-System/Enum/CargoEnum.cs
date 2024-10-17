@@ -20,7 +20,7 @@ namespace ERP_System.Enum
         Funcionário = 5,
 
         [Display(Name = "Administrador")]
-        Administrador = 1,
+        Administrador = 6,
 
 
     }
