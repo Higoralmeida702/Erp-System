@@ -142,3 +142,7 @@ C:\Users\Administrator\source\repos\Erp-System\ERP-System\obj\Debug\net8.0\refin
 C:\Users\Administrator\source\repos\Erp-System\ERP-System\obj\Debug\net8.0\ERP-System.pdb
 C:\Users\Administrator\source\repos\Erp-System\ERP-System\obj\Debug\net8.0\ERP-System.genruntimeconfig.cache
 C:\Users\Administrator\source\repos\Erp-System\ERP-System\obj\Debug\net8.0\ref\ERP-System.dll
+C:\Users\Administrator\source\repos\Erp-System\ERP-System\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Administrator\source\repos\Erp-System\ERP-System\bin\Debug\net8.0\Scrutor.dll
+C:\Users\Administrator\source\repos\Erp-System\ERP-System\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\Administrator\source\repos\Erp-System\ERP-System\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll

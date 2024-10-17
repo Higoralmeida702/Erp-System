@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "ERP_System.Controller.UsuarioController",
+    "Method": "Login",
+    "RelativePath": "api/Usuario/Login/Aluno",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginDto",
+        "Type": "ERP_System.Dto.LoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ERP_System.Controller.UsuarioController",
+    "Method": "Register",
+    "RelativePath": "api/Usuario/Registrar/Aluno",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuarioDto",
+        "Type": "ERP_System.Dto.UsuarioDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
