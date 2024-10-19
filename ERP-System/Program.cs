@@ -8,6 +8,7 @@ using System.Text;
 using ERP_System.Services.AuthServices;
 using Microsoft.OpenApi.Models;
 using Swashbuckle.AspNetCore.Filters;
+using ERP_System.Services;
 
 
 var builder = WebApplication.CreateBuilder(args);
@@ -46,6 +47,7 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJw
 builder.Services.AddScoped<ISenhaService, SenhaService>();
 builder.Services.AddScoped<IUsuarioAuthService, UsuarioAuthService>();
 builder.Services.AddScoped<IAdministradorAccount, AdministradorAccountService>();
+builder.Services.AddScoped<ISolicitacoesService, SolicitacoesService>();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
