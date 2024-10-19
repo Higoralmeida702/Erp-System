@@ -10,5 +10,6 @@ namespace ERP_System.Data
         }
 
         public DbSet<Usuario> Usuarios { get; set; }
+        public DbSet<SolicitacaoDeCargo> Solicitacoes { get; set; }
     }
 }
