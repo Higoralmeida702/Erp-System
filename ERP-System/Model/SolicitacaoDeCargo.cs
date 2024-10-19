@@ -7,10 +7,12 @@ namespace ERP_System.Model
         public int Id { get; set; }
         public int UsuarioId { get; set; }
         public CargoEnum CargoSolicitado { get; set; }
-        public bool Aprovado { get; set; } 
         public DateTime DataSolicitacao { get; set; } = DateTime.Now;
-        public SolicitacaoCargoEnum Status { get; set; } = SolicitacaoCargoEnum.Pendente;
+        public SolicitacaoCargoEnum Status { get; set; }
 
-        public Usuario Usuario { get; set; }
+        public string PegarTextoEnum()
+        {
+            return Status.ToString();
+        }
     }
 }
