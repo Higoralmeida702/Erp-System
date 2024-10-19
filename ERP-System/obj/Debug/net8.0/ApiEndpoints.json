@@ -1,8 +1,29 @@
 [
   {
     "ContainingType": "ERP_System.Controller.UsuarioController",
+    "Method": "AtribuirCargo",
+    "RelativePath": "api/Usuario/AtribuirNovoCargo/{usuarioId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuarioId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "novoCargo",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ERP_System.Controller.UsuarioController",
     "Method": "Login",
-    "RelativePath": "api/Usuario/Login/Aluno",
+    "RelativePath": "api/Usuario/Login/Usuario",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -18,7 +39,7 @@
   {
     "ContainingType": "ERP_System.Controller.UsuarioController",
     "Method": "Register",
-    "RelativePath": "api/Usuario/Registrar/Aluno",
+    "RelativePath": "api/Usuario/Registrar/Usuario",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
