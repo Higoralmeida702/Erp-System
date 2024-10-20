@@ -11,5 +11,13 @@ namespace ERP_System.Data
 
         public DbSet<Usuario> Usuarios { get; set; }
         public DbSet<SolicitacaoDeCargo> Solicitacoes { get; set; }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<SolicitacaoDeCargo>()
+                .Property(s => s.Status)
+                .HasConversion<string>();
+        }
+
     }
 }
