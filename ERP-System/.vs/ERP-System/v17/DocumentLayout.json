@@ -3,44 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\Erp-System\\ERP-System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\source\\repos\\Erp-System\\ERP-System\\Migrations\\20241019181325_AddTabelaSolicitacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241019181325_AddTabelaSolicitacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8CD3AE6B-7FE3-47B7-8DCD-E50F35177C12}|ERP-System.csproj|c:\\users\\administrator\\source\\repos\\erp-system\\erp-system\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CD3AE6B-7FE3-47B7-8DCD-E50F35177C12}|ERP-System.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8CD3AE6B-7FE3-47B7-8DCD-E50F35177C12}|ERP-System.csproj|c:\\users\\administrator\\source\\repos\\erp-system\\erp-system\\model\\solicitacaodecargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CD3AE6B-7FE3-47B7-8DCD-E50F35177C12}|ERP-System.csproj|solutionrelative:model\\solicitacaodecargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8CD3AE6B-7FE3-47B7-8DCD-E50F35177C12}|ERP-System.csproj|c:\\users\\administrator\\source\\repos\\erp-system\\erp-system\\model\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CD3AE6B-7FE3-47B7-8DCD-E50F35177C12}|ERP-System.csproj|solutionrelative:model\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8CD3AE6B-7FE3-47B7-8DCD-E50F35177C12}|ERP-System.csproj|c:\\users\\administrator\\source\\repos\\erp-system\\erp-system\\enum\\solicitacaocargoenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CD3AE6B-7FE3-47B7-8DCD-E50F35177C12}|ERP-System.csproj|solutionrelative:enum\\solicitacaocargoenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8CD3AE6B-7FE3-47B7-8DCD-E50F35177C12}|ERP-System.csproj|c:\\users\\administrator\\source\\repos\\erp-system\\erp-system\\services\\authservices\\administradoraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CD3AE6B-7FE3-47B7-8DCD-E50F35177C12}|ERP-System.csproj|solutionrelative:services\\authservices\\administradoraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8CD3AE6B-7FE3-47B7-8DCD-E50F35177C12}|ERP-System.csproj|c:\\users\\administrator\\source\\repos\\erp-system\\erp-system\\controller\\solicitacoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD3AE6B-7FE3-47B7-8DCD-E50F35177C12}|ERP-System.csproj|solutionrelative:controller\\solicitacoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8CD3AE6B-7FE3-47B7-8DCD-E50F35177C12}|ERP-System.csproj|c:\\users\\administrator\\source\\repos\\erp-system\\erp-system\\controller\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8CD3AE6B-7FE3-47B7-8DCD-E50F35177C12}|ERP-System.csproj|solutionrelative:controller\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CD3AE6B-7FE3-47B7-8DCD-E50F35177C12}|ERP-System.csproj|c:\\users\\administrator\\source\\repos\\erp-system\\erp-system\\services\\authservices\\iadministradoraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CD3AE6B-7FE3-47B7-8DCD-E50F35177C12}|ERP-System.csproj|solutionrelative:services\\authservices\\iadministradoraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8CD3AE6B-7FE3-47B7-8DCD-E50F35177C12}|ERP-System.csproj|c:\\users\\administrator\\source\\repos\\erp-system\\erp-system\\enum\\cargoenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD3AE6B-7FE3-47B7-8DCD-E50F35177C12}|ERP-System.csproj|solutionrelative:enum\\cargoenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD3AE6B-7FE3-47B7-8DCD-E50F35177C12}|ERP-System.csproj|c:\\users\\administrator\\source\\repos\\erp-system\\erp-system\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD3AE6B-7FE3-47B7-8DCD-E50F35177C12}|ERP-System.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD3AE6B-7FE3-47B7-8DCD-E50F35177C12}|ERP-System.csproj|c:\\users\\administrator\\source\\repos\\erp-system\\erp-system\\migrations\\20241019230345_otimizacaodesolicitacaocargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD3AE6B-7FE3-47B7-8DCD-E50F35177C12}|ERP-System.csproj|solutionrelative:migrations\\20241019230345_otimizacaodesolicitacaocargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD3AE6B-7FE3-47B7-8DCD-E50F35177C12}|ERP-System.csproj|c:\\users\\administrator\\source\\repos\\erp-system\\erp-system\\migrations\\20241019181325_addtabelasolicitacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD3AE6B-7FE3-47B7-8DCD-E50F35177C12}|ERP-System.csproj|solutionrelative:migrations\\20241019181325_addtabelasolicitacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD3AE6B-7FE3-47B7-8DCD-E50F35177C12}|ERP-System.csproj|c:\\users\\administrator\\source\\repos\\erp-system\\erp-system\\enum\\solicitacaocargoenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD3AE6B-7FE3-47B7-8DCD-E50F35177C12}|ERP-System.csproj|solutionrelative:enum\\solicitacaocargoenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD3AE6B-7FE3-47B7-8DCD-E50F35177C12}|ERP-System.csproj|c:\\users\\administrator\\source\\repos\\erp-system\\erp-system\\model\\solicitacaodecargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD3AE6B-7FE3-47B7-8DCD-E50F35177C12}|ERP-System.csproj|solutionrelative:model\\solicitacaodecargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8CD3AE6B-7FE3-47B7-8DCD-E50F35177C12}|ERP-System.csproj|c:\\users\\administrator\\source\\repos\\erp-system\\erp-system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8CD3AE6B-7FE3-47B7-8DCD-E50F35177C12}|ERP-System.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CD3AE6B-7FE3-47B7-8DCD-E50F35177C12}|ERP-System.csproj|c:\\users\\administrator\\source\\repos\\erp-system\\erp-system\\enum\\cargoenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CD3AE6B-7FE3-47B7-8DCD-E50F35177C12}|ERP-System.csproj|solutionrelative:enum\\cargoenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8CD3AE6B-7FE3-47B7-8DCD-E50F35177C12}|ERP-System.csproj|c:\\users\\administrator\\source\\repos\\erp-system\\erp-system\\services\\solicitacoesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD3AE6B-7FE3-47B7-8DCD-E50F35177C12}|ERP-System.csproj|solutionrelative:services\\solicitacoesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD3AE6B-7FE3-47B7-8DCD-E50F35177C12}|ERP-System.csproj|c:\\users\\administrator\\source\\repos\\erp-system\\erp-system\\services\\isolicitacoesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD3AE6B-7FE3-47B7-8DCD-E50F35177C12}|ERP-System.csproj|solutionrelative:services\\isolicitacoesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD3AE6B-7FE3-47B7-8DCD-E50F35177C12}|ERP-System.csproj|c:\\users\\administrator\\source\\repos\\erp-system\\erp-system\\model\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD3AE6B-7FE3-47B7-8DCD-E50F35177C12}|ERP-System.csproj|solutionrelative:model\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD3AE6B-7FE3-47B7-8DCD-E50F35177C12}|ERP-System.csproj|c:\\users\\administrator\\source\\repos\\erp-system\\erp-system\\services\\authservices\\administradoraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD3AE6B-7FE3-47B7-8DCD-E50F35177C12}|ERP-System.csproj|solutionrelative:services\\authservices\\administradoraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD3AE6B-7FE3-47B7-8DCD-E50F35177C12}|ERP-System.csproj|c:\\users\\administrator\\source\\repos\\erp-system\\erp-system\\services\\authservices\\iadministradoraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD3AE6B-7FE3-47B7-8DCD-E50F35177C12}|ERP-System.csproj|solutionrelative:services\\authservices\\iadministradoraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8CD3AE6B-7FE3-47B7-8DCD-E50F35177C12}|ERP-System.csproj|c:\\users\\administrator\\source\\repos\\erp-system\\erp-system\\migrations\\20241016224625_adicionadotabelausuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,20 +82,95 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20241019181325_AddTabelaSolicitacoes.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Erp-System\\ERP-System\\Migrations\\20241019181325_AddTabelaSolicitacoes.cs",
-              "RelativeDocumentMoniker": "Migrations\\20241019181325_AddTabelaSolicitacoes.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Erp-System\\ERP-System\\Migrations\\20241019181325_AddTabelaSolicitacoes.cs",
-              "RelativeToolTip": "Migrations\\20241019181325_AddTabelaSolicitacoes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABQAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "20241019230345_OtimizacaoDeSolicitacaoCargo.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Erp-System\\ERP-System\\Migrations\\20241019230345_OtimizacaoDeSolicitacaoCargo.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241019230345_OtimizacaoDeSolicitacaoCargo.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Erp-System\\ERP-System\\Migrations\\20241019230345_OtimizacaoDeSolicitacaoCargo.cs",
+              "RelativeToolTip": "Migrations\\20241019230345_OtimizacaoDeSolicitacaoCargo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T18:13:25.707Z",
+              "WhenOpened": "2024-10-19T23:03:45.607Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
+              "Title": "SolicitacoesService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Erp-System\\ERP-System\\Services\\SolicitacoesService.cs",
+              "RelativeDocumentMoniker": "Services\\SolicitacoesService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Erp-System\\ERP-System\\Services\\SolicitacoesService.cs",
+              "RelativeToolTip": "Services\\SolicitacoesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T22:29:47.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SolicitacoesController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Erp-System\\ERP-System\\Controller\\SolicitacoesController.cs",
+              "RelativeDocumentMoniker": "Controller\\SolicitacoesController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Erp-System\\ERP-System\\Controller\\SolicitacoesController.cs",
+              "RelativeToolTip": "Controller\\SolicitacoesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T22:29:28.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SolicitacaoDeCargo.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Erp-System\\ERP-System\\Model\\SolicitacaoDeCargo.cs",
+              "RelativeDocumentMoniker": "Model\\SolicitacaoDeCargo.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Erp-System\\ERP-System\\Model\\SolicitacaoDeCargo.cs",
+              "RelativeToolTip": "Model\\SolicitacaoDeCargo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T18:08:54.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Erp-System\\ERP-System\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Erp-System\\ERP-System\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T22:38:13.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Erp-System\\ERP-System\\Controller\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Controller\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Erp-System\\ERP-System\\Controller\\UsuarioController.cs",
+              "RelativeToolTip": "Controller\\UsuarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T21:34:21.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CargoEnum.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Erp-System\\ERP-System\\Enum\\CargoEnum.cs",
+              "RelativeDocumentMoniker": "Enum\\CargoEnum.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Erp-System\\ERP-System\\Enum\\CargoEnum.cs",
+              "RelativeToolTip": "Enum\\CargoEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T22:29:27.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "SolicitacaoCargoEnum.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Erp-System\\ERP-System\\Enum\\SolicitacaoCargoEnum.cs",
               "RelativeDocumentMoniker": "Enum\\SolicitacaoCargoEnum.cs",
@@ -87,50 +178,48 @@
               "RelativeToolTip": "Enum\\SolicitacaoCargoEnum.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T18:11:12.948Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-19T18:11:12.948Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SolicitacaoDeCargo.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Erp-System\\ERP-System\\Model\\SolicitacaoDeCargo.cs",
-              "RelativeDocumentMoniker": "Model\\SolicitacaoDeCargo.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Erp-System\\ERP-System\\Model\\SolicitacaoDeCargo.cs",
-              "RelativeToolTip": "Model\\SolicitacaoDeCargo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Erp-System\\ERP-System\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Erp-System\\ERP-System\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T18:08:54.673Z",
+              "WhenOpened": "2024-10-16T22:36:51.083Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "AdministradorAccountService.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Erp-System\\ERP-System\\Services\\AuthServices\\AdministradorAccountService.cs",
-              "RelativeDocumentMoniker": "Services\\AuthServices\\AdministradorAccountService.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Erp-System\\ERP-System\\Services\\AuthServices\\AdministradorAccountService.cs",
-              "RelativeToolTip": "Services\\AuthServices\\AdministradorAccountService.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAcwC4AAAAmAAAAAAAAAA==",
+              "Title": "20241019181325_AddTabelaSolicitacoes.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Erp-System\\ERP-System\\Migrations\\20241019181325_AddTabelaSolicitacoes.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241019181325_AddTabelaSolicitacoes.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Erp-System\\ERP-System\\Migrations\\20241019181325_AddTabelaSolicitacoes.cs",
+              "RelativeToolTip": "Migrations\\20241019181325_AddTabelaSolicitacoes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T17:01:43.805Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IAdministradorAccountService.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Erp-System\\ERP-System\\Services\\AuthServices\\IAdministradorAccountService.cs",
-              "RelativeDocumentMoniker": "Services\\AuthServices\\IAdministradorAccountService.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Erp-System\\ERP-System\\Services\\AuthServices\\IAdministradorAccountService.cs",
-              "RelativeToolTip": "Services\\AuthServices\\IAdministradorAccountService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T17:01:27.725Z"
+              "WhenOpened": "2024-10-19T18:13:25.707Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "ISolicitacoesService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Erp-System\\ERP-System\\Services\\ISolicitacoesService.cs",
+              "RelativeDocumentMoniker": "Services\\ISolicitacoesService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Erp-System\\ERP-System\\Services\\ISolicitacoesService.cs",
+              "RelativeToolTip": "Services\\ISolicitacoesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T22:28:09.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "20241016224625_AdicionadoTabelaUsuarios.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Erp-System\\ERP-System\\Migrations\\20241016224625_AdicionadoTabelaUsuarios.cs",
               "RelativeDocumentMoniker": "Migrations\\20241016224625_AdicionadoTabelaUsuarios.cs",
@@ -142,19 +231,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Erp-System\\ERP-System\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Erp-System\\ERP-System\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAgwEsAAAAKAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "IAdministradorAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Erp-System\\ERP-System\\Services\\AuthServices\\IAdministradorAccountService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthServices\\IAdministradorAccountService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Erp-System\\ERP-System\\Services\\AuthServices\\IAdministradorAccountService.cs",
+              "RelativeToolTip": "Services\\AuthServices\\IAdministradorAccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T22:38:13.594Z"
+              "WhenOpened": "2024-10-18T17:01:27.725Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Erp-System\\ERP-System\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -166,7 +255,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
+              "Title": "AdministradorAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Erp-System\\ERP-System\\Services\\AuthServices\\AdministradorAccountService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthServices\\AdministradorAccountService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Erp-System\\ERP-System\\Services\\AuthServices\\AdministradorAccountService.cs",
+              "RelativeToolTip": "Services\\AuthServices\\AdministradorAccountService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwC4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T17:01:43.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Erp-System\\ERP-System\\Model\\Usuario.cs",
               "RelativeDocumentMoniker": "Model\\Usuario.cs",
@@ -174,45 +275,7 @@
               "RelativeToolTip": "Model\\Usuario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T22:29:03.909Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Erp-System\\ERP-System\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Erp-System\\ERP-System\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T22:36:51.083Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Erp-System\\ERP-System\\Controller\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "Controller\\UsuarioController.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Erp-System\\ERP-System\\Controller\\UsuarioController.cs",
-              "RelativeToolTip": "Controller\\UsuarioController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAowC0AAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T21:34:21.82Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CargoEnum.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Erp-System\\ERP-System\\Enum\\CargoEnum.cs",
-              "RelativeDocumentMoniker": "Enum\\CargoEnum.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Erp-System\\ERP-System\\Enum\\CargoEnum.cs",
-              "RelativeToolTip": "Enum\\CargoEnum.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T22:29:27.699Z"
+              "WhenOpened": "2024-10-16T22:29:03.909Z"
             }
           ]
         }
